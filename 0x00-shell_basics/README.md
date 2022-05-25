@@ -1,2 +1,2 @@
 #!/bin/bash
-File 2.  Display current directory contents in a long format.
+File 4. Display current directory contents, including hidden files using the long format.
