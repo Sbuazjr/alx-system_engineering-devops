@@ -1,2 +1,2 @@
 #!/bin/bash
-File 2.  script that changes the working directory to the user’s home directory.
+File 2.  Display current directory contents in a long format.
