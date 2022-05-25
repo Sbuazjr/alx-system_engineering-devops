@@ -1,2 +1,2 @@
 #!/bin/bash
-File 13. Creating symbols in the current working directory
+File 14. script that copies all the HTML files from the current working directory to the parent of the working directory
