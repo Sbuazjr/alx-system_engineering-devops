@@ -1,2 +1,2 @@
 #!/bin/bash
-File 16. script that deletes all files in the current working directory that end with the character ~.
+File 17. script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
