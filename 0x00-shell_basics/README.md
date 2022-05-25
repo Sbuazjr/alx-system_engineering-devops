@@ -1,2 +1,2 @@
 #!/bin/bash
-File 7. Move the file betty from tmp
+File 8. Deleting the file betty
