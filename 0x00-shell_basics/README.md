@@ -1,2 +1,2 @@
 #!/bin/bash
-File 8. Deleting the file betty
+File 9. Delete the directory
