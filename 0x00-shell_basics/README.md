@@ -1,2 +1,2 @@
 #!/bin/bash
-File 9. Delete the directory
+File 10. script that changes the working directory to the previous one.
