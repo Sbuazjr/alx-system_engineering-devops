@@ -1,2 +1,2 @@
 #!/bin/bash
-File 17. script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+File 18. command that lists all the files and directories of the current directory, separated by commas (,).
