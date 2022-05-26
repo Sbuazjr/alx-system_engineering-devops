@@ -1,2 +1,2 @@
 #!/bin/bash
-File 14. script that changed owners and groups
+File 15. script with symbolic link permissions that changed owners and groups 
