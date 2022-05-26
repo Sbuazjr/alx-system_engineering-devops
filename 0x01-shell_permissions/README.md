@@ -1,2 +1,2 @@
 #!/bin/bash
-File 9. John Doe script
+File 10. script that creates a mirror effect
