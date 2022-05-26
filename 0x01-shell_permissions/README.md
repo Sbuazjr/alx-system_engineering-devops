@@ -1,2 +1,2 @@
 #!/bin/bash
-File 4. script that creates an empty file called hello.
+File 5. script that adds execute permission to the owner of the file hello.
