@@ -1,2 +1,2 @@
 #!/bin/bash
-File 10. script that creates a mirror effect
+File 11. script that creates directories permission
