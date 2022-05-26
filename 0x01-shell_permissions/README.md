@@ -1,2 +1,2 @@
 #!/bin/bash
-File 11. script that creates directories permission
+File 12. script that creates my directory
