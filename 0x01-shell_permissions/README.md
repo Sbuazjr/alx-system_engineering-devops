@@ -1,2 +1,2 @@
 #!/bin/bash
-File 0. Create a script that switches the current user to another.
+File 1. script that prints the effective username of the current user.
