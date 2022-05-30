@@ -1,2 +1,2 @@
 #!/bin/bash
-File 15. count the word
+File 16. script that Display lines containing the pattern “root” and 3 lines after them in the file
