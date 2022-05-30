@@ -1,2 +1,2 @@
 #!/bin/bash
-File 13. script that Display lines containing the pattern “root”
+File 15. count the word
