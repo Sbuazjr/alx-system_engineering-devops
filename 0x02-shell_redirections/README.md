@@ -1,2 +1,2 @@
 #!/bin/bash
-File 19. A-Z script
+File 20. Haigo script
