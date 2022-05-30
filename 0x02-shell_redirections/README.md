@@ -1,2 +1,2 @@
 #!/bin/bash
-File 18. letters only
+File 19. A-Z script
