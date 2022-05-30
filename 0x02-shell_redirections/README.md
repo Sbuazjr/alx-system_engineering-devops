@@ -1,2 +1,2 @@
 #!/bin/bash
-File 1. Confused smiley
+File 2. displaying content of a file
