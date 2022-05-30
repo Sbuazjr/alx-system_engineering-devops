@@ -1,2 +1,2 @@
 #!/bin/bash
-File 20. Haigo script
+File 21. script that reverse its input
