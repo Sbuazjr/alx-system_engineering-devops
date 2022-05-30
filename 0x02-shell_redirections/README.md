@@ -1,2 +1,2 @@
 #!/bin/bash
-File 8. cwd script
+File 9. script that duplicate last line
