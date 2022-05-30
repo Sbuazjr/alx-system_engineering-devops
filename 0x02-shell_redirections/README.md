@@ -1,2 +1,2 @@
 #!/bin/bash
-File 23. Empty casks script
+File 24. gif extension
