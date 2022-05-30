@@ -1,2 +1,2 @@
 #!/bin/bash
-File 7. file script
+File 8. cwd script
