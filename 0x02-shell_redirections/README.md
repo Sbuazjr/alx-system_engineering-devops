@@ -1,2 +1,2 @@
 #!/bin/bash
-File 24. gif extension
+File 25. Acrostic
