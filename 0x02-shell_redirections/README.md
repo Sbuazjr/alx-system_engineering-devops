@@ -1,2 +1,2 @@
 #!/bin/bash
-File 12. unique files
+File 13. script that Display lines containing the pattern “root”
