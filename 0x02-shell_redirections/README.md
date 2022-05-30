@@ -1,2 +1,2 @@
 #!/bin/bash
-File 5. last line script
+File 6. third line script
