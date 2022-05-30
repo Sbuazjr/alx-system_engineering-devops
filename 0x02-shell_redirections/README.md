@@ -1,2 +1,2 @@
 #!/bin/bash
-File 10. script that deletes all regular files
+File 11. script that counts the number of directories and sub-directories
