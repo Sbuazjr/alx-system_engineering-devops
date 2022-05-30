@@ -1,2 +1,2 @@
 #!/bin/bash
-File 2. displaying content of a file
+File 3. two files script
