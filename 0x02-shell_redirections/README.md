@@ -1,2 +1,2 @@
 #!/bin/bash
-File 9. script that duplicate last line
+File 10. script that deletes all regular files
