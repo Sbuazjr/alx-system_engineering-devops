@@ -1,2 +1,2 @@
 #!/bin/bash
-File 21. script that reverse its input
+File 22.  script that displays all users and their home directories, sorted by users.
