@@ -1,2 +1,2 @@
 #!/bin/bash
-File 17. scripts that hide words
+File 18. letters only
