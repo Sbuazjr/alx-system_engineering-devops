@@ -1,2 +1,2 @@
 #!/bin/bash
-File 10. Breathe and love script
+File 11. binary to decimal script
