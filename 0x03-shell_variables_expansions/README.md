@@ -1,2 +1,2 @@
 #!/bin/bash
-File 1. Hello me script
+File 2. Action path script
