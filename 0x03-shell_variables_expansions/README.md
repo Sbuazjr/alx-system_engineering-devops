@@ -1,2 +1,2 @@
 #!/bin/bash
-File 15. rot13
+File 16. odd script
