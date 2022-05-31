@@ -1,2 +1,2 @@
 #!/bin/bash
-File 9. divide and rule script
+File 10. Breathe and love script
