@@ -1,2 +1,2 @@
 #!/bin/bash
-File 4. Global variables script
+File 5. Local variables script
