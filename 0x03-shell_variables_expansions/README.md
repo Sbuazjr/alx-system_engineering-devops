@@ -1,2 +1,2 @@
 #!/bin/bash
-File 6. script that creates new local variables
+File 7. script that creates new global variables
