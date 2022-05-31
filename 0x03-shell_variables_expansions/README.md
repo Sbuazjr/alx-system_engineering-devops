@@ -1,2 +1,2 @@
 #!/bin/bash
-File 16. odd script
+File 17. water and stir script
