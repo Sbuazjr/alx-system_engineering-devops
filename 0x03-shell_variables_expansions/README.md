@@ -1,2 +1,2 @@
 #!/bin/bash
-File 3. Script counting numbers of directories
+File 4. Global variables script
