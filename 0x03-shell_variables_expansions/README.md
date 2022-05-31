@@ -1,2 +1,2 @@
 #!/bin/bash
-File 5. Local variables script
+File 6. script that creates new local variables
