@@ -1,2 +1,2 @@
 #!/bin/bash
-File 2. Action path script
+File 3. Script counting numbers of directories
