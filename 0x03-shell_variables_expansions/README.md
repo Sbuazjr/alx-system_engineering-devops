@@ -1,2 +1,2 @@
 #!/bin/bash
-File 8. true knowledge script
+File 9. divide and rule script
