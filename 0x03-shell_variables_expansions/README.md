@@ -1,2 +1,2 @@
 #!/bin/bash
-File 7. script that creates new global variables
+File 8. true knowledge script
